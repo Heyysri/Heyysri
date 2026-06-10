@@ -1,7 +1,7 @@
 # Hi there, I'm Srikanth Sanjay Pawar 👋
 
-I'm a passionate **Associate Cloud Engineer** with hands-on experience in AWS, 
-CI/CD pipelines, containerization, and infrastructure automation. 
+I'm a passionate **Associate Cloud Engineer** with hands-on experience in AWS,
+CI/CD pipelines, containerization, and infrastructure automation.
 I enjoy building scalable, secure cloud solutions and continuously learning new DevOps tools and practices.
 
 ---
@@ -9,6 +9,11 @@ I enjoy building scalable, secure cloud solutions and continuously learning new 
 ## 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/srikanth-pawar)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sreekanthsanjay5@gmail.com)
+
+---
+
+<img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="700"/>
 
 ---
 
@@ -23,6 +28,14 @@ I enjoy building scalable, secure cloud solutions and continuously learning new 
 ## 📊 GitHub Stats
 
 ![Srikanth's GitHub stats](https://github-readme-stats.vercel.app/api?username=Heyysri&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Heyysri&layout=compact&theme=radical)
+
+---
+
+## 🌱 Contribution Graph
+
+![github contribution grid snake animation](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
@@ -42,8 +55,16 @@ End-to-end DevSecOps pipeline built from scratch on AWS.
 
 ## 🏅 Certifications
 
-- **AWS Certified Solutions Architect – Associate** | Valid: Jun 2026 – Jun 2029
+- **AWS Certified Solutions Architect – Associate** | Valid: Jun 2026 – Jun 2029  
   [🔗 Verify](https://www.credly.com/badges/72226697-d1a6-4541-a050-967531af3deb/public_url)
+
+---
+
+## 💡 Currently Learning
+
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 
 ---
 
