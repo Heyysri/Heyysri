@@ -13,15 +13,17 @@ I enjoy building scalable, secure cloud solutions and continuously learning new 
 
 ---
 
-<img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="300"/>
-
----
-
 ## 🛠️ Tools & Technologies
 
 | AWS | Linux | Docker | Kubernetes | Terraform | Jenkins | Git | Shell | Python |
 |-----|-------|--------|------------|-----------|---------|-----|-------|--------|
 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/> |
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="300"/>
+</p>
 
 ---
 
@@ -33,9 +35,15 @@ I enjoy building scalable, secure cloud solutions and continuously learning new 
 
 ---
 
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</p>
+
+---
+
 ## 🌱 Contribution Graph
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
+![github contribution grid snake animation](https://raw.githubusercontent.com/Heyysri/Heyysri/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
