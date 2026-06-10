@@ -43,7 +43,7 @@ I enjoy building scalable, secure cloud solutions and continuously learning new 
 
 ## 🌱 Contribution Graph
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/Heyysri/Heyysri/output/github-contribution-grid-snake-dark.svg)
+![github contribution grid snake animation](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
