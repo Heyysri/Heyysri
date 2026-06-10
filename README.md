@@ -13,7 +13,7 @@ I enjoy building scalable, secure cloud solutions and continuously learning new 
 
 ---
 
-<img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="700"/>
+<img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="400"/>
 
 ---
 
