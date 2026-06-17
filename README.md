@@ -51,13 +51,16 @@ I enjoy building scalable, secure cloud solutions and continuously learning new 
 
 ### 🔐 Automated DevSecOps CI/CD Pipeline
 
-End-to-end DevSecOps pipeline built from scratch on AWS.
+DevSecOps-CI-CD-Pipeline-Aws-Eks
 
-- **Tech Stack**: Jenkins, SonarQube, Trivy, Docker, Amazon EKS, Argo CD, Terraform
+- **Tech Stack**: Jenkins, SonarQube, Trivy, Docker, Amazon EKS, Argo CD, GitHub, AWS
 - **Highlights**:
-  - Automated build → test → scan → deploy pipeline with zero manual steps
-  - Quality gate enforcement via SonarQube; blocks deployments on HIGH/CRITICAL CVEs
-  - GitOps-based continuous delivery to EKS via Argo CD
+  - End-to-end DevSecOps CI/CD pipeline from code push to production
+  - Security-first approach with SonarQube SAST + Trivy SCA/image scan at every build
+  - GitOps delivery via Argo CD - the cluster always matches the repo
+  - AWS EKS for production-grade Kubernetes orchestration
+  - Docker image versioning with Jenkins build tags
+  - Kubernetes LoadBalancer service for public app access
 
 ---
 
