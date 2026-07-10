@@ -1,6 +1,6 @@
 # Hi there, I'm Srikanth Sanjay Pawar 👋
 
-I'm a passionate **Associate Cloud Engineer** with hands-on experience in AWS,
+I'm a passionate **Cloud Engineer** with hands-on experience in AWS,
 CI/CD pipelines, containerization, and infrastructure automation.
 I enjoy building scalable, secure cloud solutions and continuously learning new DevOps tools and practices.
 
