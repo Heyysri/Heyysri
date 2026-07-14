@@ -26,19 +26,6 @@ I enjoy building scalable, secure cloud solutions and continuously learning new 
 
 ---
 
-## 📊 GitHub Stats
-
-![Srikanth's GitHub stats](https://github-readme-stats.vercel.app/api?username=Heyysri&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Heyysri&layout=compact&theme=radical)
-
----
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-</p>
-
----
 
 ## 🌱 Contribution Graph
 
