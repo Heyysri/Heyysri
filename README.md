@@ -40,14 +40,14 @@ I enjoy building scalable, secure cloud solutions and continuously learning new 
 - **Tech Stack**: Jenkins, SonarQube, Trivy, Docker, Amazon EKS, Argo CD, GitHub, AWS
 - **Highlights**:
 - 
-  -End-to-end Automated CI/CD workflow from source code to Kubernetes deployment
-  -Automated code quality analysis using SonarQube
-  -Security scanning using Trivy for filesystem and Docker image vulnerabilities
-  -GitOps-based continuous delivery using Argo CD
-  -Application deployed on Amazon EKS using Kubernetes Deployments and LoadBalancer service
-  -Docker image versioning using Jenkins build numbers
-  -Automated Kubernetes manifest updates to trigger Argo CD synchronization
-  -Integrated AWS, Jenkins, Docker, Kubernetes, SonarQube, Trivy, and Argo CD workflow
+- End-to-end automated CI/CD workflow from source code to Kubernetes deployment<br>
+- Automated code quality analysis using SonarQube<br>
+- Security scanning using Trivy for filesystem and Docker image vulnerabilities<br>
+- GitOps-based continuous delivery using Argo CD<br>
+- Application deployed on Amazon EKS using Kubernetes Deployments and LoadBalancer Service<br>
+- Docker image versioning using Jenkins build numbers<br>
+- Automated Kubernetes manifest updates to trigger Argo CD synchronization<br>
+- Integrated AWS, Jenkins, Docker, Kubernetes, SonarQube, Trivy, and Argo CD workflow
 
 ---
 
