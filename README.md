@@ -35,18 +35,18 @@ I enjoy building scalable, secure cloud solutions and continuously learning new 
 
 ## 🚀 Featured Project
 
-### 🔐 Automated DevSecOps CI/CD Pipeline
-
-DevSecOps-CI-CD-Pipeline-Aws-Eks
+### 🔐 Ci-Cd-Pipeline-Security-Scanning
 
 - **Tech Stack**: Jenkins, SonarQube, Trivy, Docker, Amazon EKS, Argo CD, GitHub, AWS
 - **Highlights**:
-  - End-to-end DevSecOps CI/CD pipeline from code push to production
-  - Security-first approach with SonarQube SAST + Trivy SCA/image scan at every build
-  - GitOps delivery via Argo CD - the cluster always matches the repo
-  - AWS EKS for production-grade Kubernetes orchestration
-  - Docker image versioning with Jenkins build tags
-  - Kubernetes LoadBalancer service for public app access
+  -End-to-end Automated CI/CD workflow from source code to Kubernetes deployment
+  -Automated code quality analysis using SonarQube
+  -Security scanning using Trivy for filesystem and Docker image vulnerabilities
+  -GitOps-based continuous delivery using Argo CD
+  -Application deployed on Amazon EKS using Kubernetes Deployments and LoadBalancer service
+  -Docker image versioning using Jenkins build numbers
+  -Automated Kubernetes manifest updates to trigger Argo CD synchronization
+  -Integrated AWS, Jenkins, Docker, Kubernetes, SonarQube, Trivy, and Argo CD workflow
 
 ---
 
