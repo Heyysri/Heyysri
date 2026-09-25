@@ -38,7 +38,7 @@ I enjoy building scalable, secure cloud solutions and continuously learning new 
 ### 🔐 Ci-Cd-Pipeline-Security-Scanning
 
 - **Tech Stack**: Jenkins, SonarQube, Trivy, Docker, Amazon EKS, Argo CD, GitHub, AWS
- **Highlights**:
+- **Highlights**:
   
 - End-to-end automated CI/CD workflow from source code to Kubernetes deployment<br>
 - Automated code quality analysis using SonarQube<br>
